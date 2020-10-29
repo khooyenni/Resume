@@ -119,7 +119,7 @@ public class Resume {
 	 public static void printTotalCGPA() {
 		 Scanner in = new Scanner(System.in);
 		 
-	     System.out.print("Enter CGPA Semester 1");
+		 System.out.print("Enter CGPA Semester 1");
 		 double num1 = in.nextDouble();
 		 System.out.print("Enter CGPA Semester 2");
 		 double num2 = in.nextDouble();
