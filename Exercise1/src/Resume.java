@@ -3,8 +3,8 @@ public class Resume {
 
 	public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-		
-		printName();
+        
+        printName();
 		printAge();
 		printGender();
 		printBirthday();
